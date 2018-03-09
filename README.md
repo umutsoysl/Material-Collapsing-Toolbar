@@ -17,4 +17,4 @@ and open it in Android Studio. Feel free to create pull requests to improve the 
 
 Give me a star if you find it useful! Another great milestone in my Simple series. Enjoy!
 
-![](https://github.com/umutsoysl/Material-Collapsing-Toolbar/blob/master/gif/app.gif)
+![](https://github.com/umutsoysl/Material-Collapsing-Toolbar/blob/master/gif/appli.gif)
